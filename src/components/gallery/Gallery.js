@@ -7,9 +7,36 @@ const Gallery = () => {
     return (
         <div className="gallery-container">
             <section className="gallery">
-                <img src={table} alt={"lewis"}></img>
-                <img src={lamp} alt={"lew2"}></img>
-                <img src={smallTable} alt={"lew2"}></img>
+                <div className="image-and-info">
+                    <img src={table} alt={"lewis"}></img>
+                    <div className="info">
+                        <div className="inner">
+                            <span>i</span>
+                            <h1>Upcycled Table</h1>
+                            <p>Delightful hand-crafted furniture that's repurposed from old and unloved wood</p>
+                        </div>
+                    </div>
+                </div>
+                <div className="image-and-info">
+                    <img src={lamp} alt={"lewis"}></img>
+                    <div className="info">
+                        <div className="inner">
+                            <span>i</span>
+                            <h1>Upcycled Table</h1>
+                            <p>Delightful hand-crafted furniture that's repurposed from old and unloved wood</p>
+                        </div>
+                    </div>
+                </div>
+                <div className="image-and-info">
+                    <img src={smallTable} alt={"lewis"}></img>
+                    <div className="info">
+                        <div className="inner">
+                            <span>i</span>
+                            <h1>Upcycled Table</h1>
+                            <p>Delightful hand-crafted furniture that's repurposed from old and unloved wood</p>
+                        </div>
+                    </div>
+                </div>
             </section>
         </div>
     )

@@ -13,7 +13,8 @@ const App = () => {
 			<NavBar />
 
 			<Gallery />
-			<ExpandingInfo />
+
+
 
 			<AboutMe />
 			<Footer />

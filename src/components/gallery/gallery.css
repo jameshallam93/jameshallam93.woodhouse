@@ -11,10 +11,14 @@ section.gallery {
     display: flex;
     justify-content: center;
 }
+section.image-and-info {
+    width: 33%;
+    margin: 0.25em;
+}
 
 section.gallery img {
-    width: 30%;
-    padding: 1em;
+    width: 100%;
+
     opacity: 0.4;
 }
 
@@ -22,6 +26,79 @@ section.gallery img:hover {
     opacity: 1;
 }
 
-section.gallery img:hover ~ .inner {
+img:hover + .info .inner {
     clip-path: circle(75%);
+}
+
+.info {
+    margin: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.info-container {
+    margin: auto;
+    width: 80vw;
+    display: flex;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.info p {
+    max-width: 100%;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+
+.inner {
+    background-color: #598ccf;
+    color: white;
+    width: 100%;
+    height: inherit;
+    border-radius: 5px;
+    clip-path: circle(8% at 50% 10%);
+    transition-property: clip-path;
+    transition-duration: 0.9s;
+    transition-timing-function: ease-in-out;
+}
+
+.inner span {
+    font-weight: bold;
+    font-size: 3vh;
+    opacity: 1;
+    transition: opacity 0.9s ease-in-out;
+}
+
+.inner h1 {
+    opacity: 0;
+    transition: opacity 0.9s ease-in-out;
+}
+
+.inner p {
+    opacity: 0;
+    transition: opacity 0.9s ease-in-out;
+}
+
+.inner:hover,
+.inner:active {
+    clip-path: circle(75%);
+}
+.inner:hover > span {
+    opacity: 0;
+}
+.inner:hover > p {
+    opacity: 1;
+}
+.inner:hover > h1 {
+    opacity: 1;
+}
+img:hover + .info span {
+    opacity: 0;
+}
+img:hover + .info p {
+    opacity: 1;
+}
+img:hover + .info h1 {
+    opacity: 1;
 }
