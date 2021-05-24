@@ -1,0 +1,27 @@
+.gallery-container {
+    display: flex;
+    flex-direction: column;
+}
+
+section.gallery {
+    width: 80vw;
+    height: auto;
+    margin: auto;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+
+section.gallery img {
+    width: 30%;
+    padding: 1em;
+    opacity: 0.4;
+}
+
+section.gallery img:hover {
+    opacity: 1;
+}
+
+section.gallery img:hover ~ .inner {
+    clip-path: circle(75%);
+}
