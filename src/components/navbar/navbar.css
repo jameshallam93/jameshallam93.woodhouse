@@ -28,8 +28,18 @@ nav li a {
     height: inherit;
     padding: 0.5em;
 }
+nav li a.current {
+    color: white;
+    background-color: black;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+}
 
 nav li a:hover {
     color: white;
     background-color: black;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
 }

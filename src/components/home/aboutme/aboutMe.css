@@ -1,11 +1,11 @@
 .about-me-container {
     width: 90vw;
+    min-height: 5vw;
     margin: auto;
     background-color: #967b62;
-    height: 20vh;
     color: white;
     text-align: center;
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     font-family: Garamond, "Times New Roman", Times, serif, serif;
     margin-bottom: 2em;
 }
