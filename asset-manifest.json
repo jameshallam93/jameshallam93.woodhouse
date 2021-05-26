@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jameshallam93.woodhouse/static/css/main.00ee86f1.chunk.css",
-    "main.js": "/jameshallam93.woodhouse/static/js/main.937bf88b.chunk.js",
-    "main.js.map": "/jameshallam93.woodhouse/static/js/main.937bf88b.chunk.js.map",
+    "main.css": "/jameshallam93.woodhouse/static/css/main.67119a56.chunk.css",
+    "main.js": "/jameshallam93.woodhouse/static/js/main.01365c27.chunk.js",
+    "main.js.map": "/jameshallam93.woodhouse/static/js/main.01365c27.chunk.js.map",
     "runtime-main.js": "/jameshallam93.woodhouse/static/js/runtime-main.f8dab9c5.js",
     "runtime-main.js.map": "/jameshallam93.woodhouse/static/js/runtime-main.f8dab9c5.js.map",
-    "static/js/2.775ff014.chunk.js": "/jameshallam93.woodhouse/static/js/2.775ff014.chunk.js",
-    "static/js/2.775ff014.chunk.js.map": "/jameshallam93.woodhouse/static/js/2.775ff014.chunk.js.map",
+    "static/js/2.316bbca9.chunk.js": "/jameshallam93.woodhouse/static/js/2.316bbca9.chunk.js",
+    "static/js/2.316bbca9.chunk.js.map": "/jameshallam93.woodhouse/static/js/2.316bbca9.chunk.js.map",
     "index.html": "/jameshallam93.woodhouse/index.html",
-    "static/css/main.00ee86f1.chunk.css.map": "/jameshallam93.woodhouse/static/css/main.00ee86f1.chunk.css.map",
-    "static/js/2.775ff014.chunk.js.LICENSE.txt": "/jameshallam93.woodhouse/static/js/2.775ff014.chunk.js.LICENSE.txt",
+    "static/css/main.67119a56.chunk.css.map": "/jameshallam93.woodhouse/static/css/main.67119a56.chunk.css.map",
+    "static/js/2.316bbca9.chunk.js.LICENSE.txt": "/jameshallam93.woodhouse/static/js/2.316bbca9.chunk.js.LICENSE.txt",
     "static/media/lamp.65de8084.jpg": "/jameshallam93.woodhouse/static/media/lamp.65de8084.jpg",
     "static/media/lamp1.7d5157b0.jpg": "/jameshallam93.woodhouse/static/media/lamp1.7d5157b0.jpg",
     "static/media/lamp2.fa210382.jpg": "/jameshallam93.woodhouse/static/media/lamp2.fa210382.jpg",
@@ -21,12 +21,12 @@
     "static/media/table2.0fcb08bb.jpg": "/jameshallam93.woodhouse/static/media/table2.0fcb08bb.jpg",
     "static/media/table3.0c0b2d95.jpg": "/jameshallam93.woodhouse/static/media/table3.0c0b2d95.jpg",
     "static/media/table4.8c31ca4b.jpg": "/jameshallam93.woodhouse/static/media/table4.8c31ca4b.jpg",
-    "static/media/woodhouse.40c75000.png": "/jameshallam93.woodhouse/static/media/woodhouse.40c75000.png"
+    "static/media/woodhousesmall.2a44796f.png": "/jameshallam93.woodhouse/static/media/woodhousesmall.2a44796f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f8dab9c5.js",
-    "static/js/2.775ff014.chunk.js",
-    "static/css/main.00ee86f1.chunk.css",
-    "static/js/main.937bf88b.chunk.js"
+    "static/js/2.316bbca9.chunk.js",
+    "static/css/main.67119a56.chunk.css",
+    "static/js/main.01365c27.chunk.js"
   ]
 }
