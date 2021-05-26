@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jameshallam93.woodhouse/static/css/main.5197efbc.chunk.css",
-    "main.js": "/jameshallam93.woodhouse/static/js/main.c4e685d0.chunk.js",
-    "main.js.map": "/jameshallam93.woodhouse/static/js/main.c4e685d0.chunk.js.map",
+    "main.js": "/jameshallam93.woodhouse/static/js/main.60d25928.chunk.js",
+    "main.js.map": "/jameshallam93.woodhouse/static/js/main.60d25928.chunk.js.map",
     "runtime-main.js": "/jameshallam93.woodhouse/static/js/runtime-main.f8dab9c5.js",
     "runtime-main.js.map": "/jameshallam93.woodhouse/static/js/runtime-main.f8dab9c5.js.map",
     "static/js/2.775ff014.chunk.js": "/jameshallam93.woodhouse/static/js/2.775ff014.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.f8dab9c5.js",
     "static/js/2.775ff014.chunk.js",
     "static/css/main.5197efbc.chunk.css",
-    "static/js/main.c4e685d0.chunk.js"
+    "static/js/main.60d25928.chunk.js"
   ]
 }
