@@ -13,12 +13,9 @@ const GallerySection = (props) => {
     }, [imageSet])
 
     const handleImageChange = (index) => {
-        const prevImage = currentImage
-        console.log(prevImage)
         setCurrentImage(availableImages[index])
     }
     const returnIsActive = (index) => {
-        console.log(`currentImage: ${currentImage} currentAvailableImage: ${availableImages[index]} index: ${index}`)
         if (availableImages[index] === currentImage) {
             return "active"
         }
