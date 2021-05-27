@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/james.hallam93/woodhouse/static/css/main.2b55058c.chunk.css",
-    "main.js": "/james.hallam93/woodhouse/static/js/main.f5290c11.chunk.js",
-    "main.js.map": "/james.hallam93/woodhouse/static/js/main.f5290c11.chunk.js.map",
+    "main.css": "/james.hallam93/woodhouse/static/css/main.7f40a30b.chunk.css",
+    "main.js": "/james.hallam93/woodhouse/static/js/main.fd816a38.chunk.js",
+    "main.js.map": "/james.hallam93/woodhouse/static/js/main.fd816a38.chunk.js.map",
     "runtime-main.js": "/james.hallam93/woodhouse/static/js/runtime-main.cf8904a5.js",
     "runtime-main.js.map": "/james.hallam93/woodhouse/static/js/runtime-main.cf8904a5.js.map",
     "static/js/2.316bbca9.chunk.js": "/james.hallam93/woodhouse/static/js/2.316bbca9.chunk.js",
     "static/js/2.316bbca9.chunk.js.map": "/james.hallam93/woodhouse/static/js/2.316bbca9.chunk.js.map",
     "index.html": "/james.hallam93/woodhouse/index.html",
-    "static/css/main.2b55058c.chunk.css.map": "/james.hallam93/woodhouse/static/css/main.2b55058c.chunk.css.map",
+    "static/css/main.7f40a30b.chunk.css.map": "/james.hallam93/woodhouse/static/css/main.7f40a30b.chunk.css.map",
     "static/js/2.316bbca9.chunk.js.LICENSE.txt": "/james.hallam93/woodhouse/static/js/2.316bbca9.chunk.js.LICENSE.txt",
     "static/media/lamp.65de8084.jpg": "/james.hallam93/woodhouse/static/media/lamp.65de8084.jpg",
     "static/media/lamp1.7d5157b0.jpg": "/james.hallam93/woodhouse/static/media/lamp1.7d5157b0.jpg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.cf8904a5.js",
     "static/js/2.316bbca9.chunk.js",
-    "static/css/main.2b55058c.chunk.css",
-    "static/js/main.f5290c11.chunk.js"
+    "static/css/main.7f40a30b.chunk.css",
+    "static/js/main.fd816a38.chunk.js"
   ]
 }
